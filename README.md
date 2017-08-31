@@ -8,7 +8,7 @@ https://drive.google.com/open?id=0Bzr4UMGyeoRoS2JiSnZvQUliWEU
 1. Download the <b> simpleblocks.tar.gz </b>.
 2. Extract it in your machine (say at 'location').
 3. Open terminal and change your directory to <b> /location/simpleblocks </b>.
-4. Run <b> bash INSTALL.sh</b>
+4. Run <b>bash INSTALL.sh</b>
 5. Enter your root password to comtinue the installtion.
 
 # About INSTALL.sh
