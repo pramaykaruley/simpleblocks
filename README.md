@@ -2,7 +2,7 @@
 Modified Codeblocks-16.01 with wxWidgets-3.0 to support simplecpp library.
 # Source Code
 Find Source code at following link,<br>
-https://drive.google.com/open?id=0Bzr4UMGyeoRoS2JiSnZvQUliWEU
+https://drive.google.com/file/d/0Bzr4UMGyeoRoWk9nMTNqeUx3bzg/view?usp=sharing
 
 # Installation 
 1. Download the "simpleblocks.tar.gz".
