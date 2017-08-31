@@ -5,10 +5,10 @@ Find Source code at following link,<br>
 https://drive.google.com/open?id=0Bzr4UMGyeoRoS2JiSnZvQUliWEU
 
 # Installation 
-1. Download the <b> simpleblocks.tar.gz </b>.
+1. Download the "simpleblocks.tar.gz".
 2. Extract it in your machine (say at 'location').
 3. Open terminal and change your directory to <b> /location/simpleblocks </b>.
-4. Run #bash INSTALL.sh#
+4. Run "bash INSTALL.sh"
 5. Enter your root password to comtinue the installtion.
 
 # About INSTALL.sh
